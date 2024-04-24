@@ -1,14 +1,14 @@
-Descrição do Desafio
-Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
+## POO - Desafio
 
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
+Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
-Pré-requisitos:
+Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
 
-Lógica de programação e POO;
+[Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
-Conhecimentos básicos em Java;
+- Minutos relevantes do 00:15 até 00:55
 
-Computador com SO de sua preferência(Windows, Linux, Mac OS);
-
-IDE (Visual Studio Code, Eclipse, etc);
+###### Comportamentos esperados:
+* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
